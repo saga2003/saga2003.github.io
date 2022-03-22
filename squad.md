@@ -8,6 +8,7 @@ permalink: /squad.html
 活动日期|活动名称|详情
 ---|---|---
 2022-03-19|死亡公路|[网址](https://saga2003.github.io/onelife/20220319.html)
+2022-03-12|沙皇 vs 王国 0312|[网址](https://saga2003.github.io/onelife/20220312.html)
 
 ## 一命制活动所有视频
 
@@ -19,6 +20,11 @@ permalink: /squad.html
 2022-03-19|死亡公路|胡喵喵|[网址](https://www.bilibili.com/video/BV1J44y1N7SQ)|第一视角
 2022-03-19|死亡公路|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1XT4y1v7gV)|第三视角 第二阶段
 2022-03-19|死亡公路|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1or4y1i77E)|第三视角 第一阶段
+2022-03-12|沙皇 vs 王国 0312|[戰術JK]KOMAROV416|[网址](https://www.bilibili.com/video/BV1o341157Qn)|第一视角
+2022-03-12|沙皇 vs 王国 0312|莱特-official|[网址](https://www.bilibili.com/video/BV1UL4y1u7pC)|第一视角 第二阶段
+2022-03-12|沙皇 vs 王国 0312|莱特-official|[网址](https://www.bilibili.com/video/BV1ai4y1C7HR)|第一视角 第一阶段
+2022-03-12|沙皇 vs 王国 0312|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1CL4y1u7gX)|第三视角 第二阶段
+2022-03-12|沙皇 vs 王国 0312|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1BZ4y1r7ng)|第三视角 第一阶段
 
 [返回一命制](https://saga2003.github.io/squad.html)
 [返回主页](https://saga2003.github.io/)
