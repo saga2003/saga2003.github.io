@@ -25,6 +25,9 @@ permalink: /squad.html
 2022-03-12|沙皇 vs 王国 0312|莱特-official|[网址](https://www.bilibili.com/video/BV1ai4y1C7HR)|第一视角 第一阶段
 2022-03-12|沙皇 vs 王国 0312|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1CL4y1u7gX)|第三视角 第二阶段
 2022-03-12|沙皇 vs 王国 0312|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1BZ4y1r7ng)|第三视角 第一阶段
+2022-03-12|沙皇 vs 王国 0312|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1BZ4y1r7ng)|第三视角 第一阶段
+2022-02-15|SQ狙击手大赛|=SAGA=Mr_STP|[网址](https://www.bilibili.com/video/BV1jL411K7Ss)|第三视角
+
 
 [返回一命制](https://saga2003.github.io/squad.html)
 [返回主页](https://saga2003.github.io/)
