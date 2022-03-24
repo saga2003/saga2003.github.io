@@ -9,14 +9,15 @@ permalink: /squad.html
 ---|---|---
 2022-03-19|死亡公路|[网址](https://saga2003.github.io/onelife/20220319.html)
 2022-03-12|沙皇 vs 王国 0312|[网址](https://saga2003.github.io/onelife/20220312.html)
+2022-03-05|星际远征|[网址](https://saga2003.github.io/onelife/20220305.html)
 
 ## 一命制活动所有视频
 
 活动日期|活动名称|视角提供者|链接|备注
 ---|---|---|---|---
 2022-03-19|死亡公路|Reimurei|[网址](https://www.bilibili.com/video/BV1mT4y1v7C9)|第一视角 第二阶段
-2022-03-19|死亡公路|莱特|[网址](https://www.bilibili.com/video/BV1aL4y1M7Zv)|第一视角 第二阶段
-2022-03-19|死亡公路|莱特|[网址](https://www.bilibili.com/video/BV1bL411w7Yv)|第一视角 第一阶段
+2022-03-19|死亡公路|莱特-offical|[网址](https://www.bilibili.com/video/BV1aL4y1M7Zv)|第一视角 第二阶段
+2022-03-19|死亡公路|莱特-offical|[网址](https://www.bilibili.com/video/BV1bL411w7Yv)|第一视角 第一阶段
 2022-03-19|死亡公路|胡喵喵|[网址](https://www.bilibili.com/video/BV1J44y1N7SQ)|第一视角
 2022-03-19|死亡公路|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1XT4y1v7gV)|第三视角 第二阶段
 2022-03-19|死亡公路|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1or4y1i77E)|第三视角 第一阶段
@@ -26,6 +27,9 @@ permalink: /squad.html
 2022-03-12|沙皇 vs 王国 0312|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1CL4y1u7gX)|第三视角 第二阶段
 2022-03-12|沙皇 vs 王国 0312|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1BZ4y1r7ng)|第三视角 第一阶段
 2022-03-12|沙皇 vs 王国 0312|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1BZ4y1r7ng)|第三视角 第一阶段
+2022-03-05|星际远征|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1NY411V7Fy)|第三视角
+2022-03-05|星际远征|莱特-offical|[网址](https://www.bilibili.com/video/BV1or4y1i77E)|抓外星人的俄军
+2022-02-26|星战 沙人 vs 共和国|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1XS4y1F7px)|第三视角
 2022-02-15|SQ狙击手大赛|=SAGA=Mr_STP|[网址](https://www.bilibili.com/video/BV1jL411K7Ss)|第三视角
 
 
