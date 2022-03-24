@@ -1,5 +1,5 @@
 ---
-permalink: onelife/0模板.html
+permalink: onelife/test.html
 ---
 [主页](https://saga2003.github.io/) [Battlefield](https://saga2003.github.io/404.html) [ARMA](https://saga2003.github.io/404.html) [SQUAD](https://saga2003.github.io/squad.html) [Rainbow6](https://saga2003.github.io/404.htmlv) [Racing](https://saga2003.github.io/404.html) [Others](https://saga2003.github.io/404.html)
 
