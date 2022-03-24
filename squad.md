@@ -7,6 +7,7 @@ permalink: /squad.html
 
 活动日期|活动名称|详情
 ---|---|---
+2022-03-26|虎口脱险|[网址](https://saga2003.github.io/onelife/20220326.html)
 2022-03-19|死亡公路|[网址](https://saga2003.github.io/onelife/20220319.html)
 2022-03-12|沙皇 vs 王国 0312|[网址](https://saga2003.github.io/onelife/20220312.html)
 2022-03-05|星际远征|[网址](https://saga2003.github.io/onelife/20220305.html)
