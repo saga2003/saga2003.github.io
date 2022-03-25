@@ -4,7 +4,7 @@ permalink: /arma.html
 [主页](https://saga2003.github.io/)   -  [Battlefield](https://saga2003.github.io/battlefield.html)   -   [ARMA](https://saga2003.github.io/arma.html)   -   [SQUAD](https://saga2003.github.io/squad.html)   -   [Rainbow6](https://saga2003.github.io/rainbow6.html)   -   [Racing](https://saga2003.github.io/racing.html)   -   [Others](https://saga2003.github.io/others.html)
 # 首页
 
-arma分区正在建设中
+**arma分区正在建设中**
 
 =SAGA=战地BF公众玩家群：217470002  
 =SAGA=战队战地新兵营：390611927  
