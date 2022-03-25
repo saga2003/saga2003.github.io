@@ -30,9 +30,12 @@ permalink: /squad.html
 2021-10-16|金色的土地黑色的血|[网址](/squad/onelife/20211016.md)
 2021-10-09|流血的洋甘菊|[网址](/squad/onelife/20211009.md)
 2021-10-02|地狱之门噩兆第二场|[网址](/squad/onelife/20211002.md)
+2021-09-25|努里斯坦战役|[网址](/squad/onelife/20210925.md)
+2021-09-18|地狱之门-噩兆|[网址](/squad/onelife/20210918.md)
+2021-09-04|努里斯坦战役第一季|[网址](/squad/onelife/20210904.md)
 
 ## 一命制活动所有视频
-### 更新范围（20220319-20211127）
+### 更新范围（20220319-20210904）
 
 活动日期|活动名称|视角提供者|链接|备注
 ---|---|---|---|---
@@ -88,6 +91,11 @@ permalink: /squad.html
 2021-10-02|地狱之门噩兆第二场| 多人视角 |[网址](https://www.bilibili.com/video/BV1QT4y1Z7cL/)|第一视角 之二
 2021-10-02|地狱之门噩兆第二场| 多人视角 |[网址](https://www.bilibili.com/video/BV1QQ4y1Q7bP/)|第一视角 之一
 2021-10-02|地狱之门噩兆第二场| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV1Rf4y1E7GB/)|第三视角
+2021-09-25|努里斯坦战役| 多人视角 |[网址](https://www.bilibili.com/video/BV1UL4y1z7Eq/)|第一视角 之二
+2021-09-25|努里斯坦战役| 多人视角 |[网址](https://www.bilibili.com/video/BV1Q64y1b7MS/)|第一视角 之一
+2021-09-25|努里斯坦战役| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV1F44y187Fr/)|第三视角
+2021-09-18|地狱之门-噩兆| 多人视角 |[网址](https://www.bilibili.com/video/BV1xq4y1K77b/)|第一视角
+2021-09-04|努里斯坦战役第一季| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV1uq4y1S72s/)|第三视角
 
 
 [返回一命制](https://saga2003.github.io/squad.html)
