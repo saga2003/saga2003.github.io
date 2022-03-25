@@ -36,10 +36,12 @@ permalink: /squad.html
 2021-08-21|第三次世界大战第四季|[网址](/squad/onelife/20210821.md)
 2021-08-14|第三次世界大战第三季|[网址](/squad/onelife/20210814.md)
 2021-08-07|第三次世界大战第二季|[网址](/squad/onelife/20210807.md)
+2021-07-25|第三次世界大战|[网址](/squad/onelife/20210725.md)
+2021-07-17|狡兔三窟|[网址](/squad/onelife/20210717.md)
 
 
 ## 一命制活动所有视频
-### 更新范围（20220319-20210807）
+### 更新范围（20220319-20210717）
 
 活动日期|活动名称|视角提供者|链接|备注
 ---|---|---|---|---
@@ -103,6 +105,8 @@ permalink: /squad.html
 2021-08-21|第三次世界大战第四季| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV1qL4y1a7Kh/)|第三视角
 2021-08-14|第三次世界大战第三季| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV1Jo4y1U7P3/)|第三视角
 2021-08-07|第三次世界大战第二季| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV1Kq4y1Q7en/)|第三视角
+2021-07-25|第三次世界大战| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV1aX4y1c7sD/)|第三视角
+2021-07-17|狡兔三窟| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV1zg411T7Ay/)|第三视角
 
 
 [返回一命制](https://saga2003.github.io/squad.html)
