@@ -22,10 +22,11 @@ permalink: /squad.html
 2021-12-25|MEE测试|[网址](https://saga2003.github.io/onelife/20211225.html)
 2021-12-18|油鸡饭行动/雷霆行动|[网址](https://saga2003.github.io/onelife/20211218.html)
 2021-12-11|不准说英语|[网址](/squad/onelife/20211211.md)
+2021-12-04|时间与命运/黑色小队|[网址](/squad/onelife/20211204.md)
 
 
 ## 一命制活动所有视频
-### 更新范围（20220319-20211211）
+### 更新范围（20220319-20211204）
 
 活动日期|活动名称|视角提供者|链接|备注
 ---|---|---|---|---
@@ -64,6 +65,8 @@ permalink: /squad.html
 2021-12-18|油鸡饭行动/雷霆行动|Reimurei|[网址](https://www.bilibili.com/video/BV1JQ4y1Y75E)|第一视角
 2021-12-18|油鸡饭行动/雷霆行动|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1DL4y1J7c7)|第三视角
 2021-12-11|不准说英语|莱特-official|[网址](https://www.bilibili.com/video/BV19Z4y197XS/)|第一视角
+2021-12-04|时间与命运/黑色小队|多人|[网址](https://www.bilibili.com/video/BV1M44y1a7ek/)|多人视角
+2021-12-04|时间与命运/黑色小队|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1zQ4y1i73H/)|第三视角
 
 
 [返回一命制](https://saga2003.github.io/squad.html)
