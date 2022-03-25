@@ -27,11 +27,18 @@ SAGA战队骑马与砍杀2交流群：648931147
 
 SAGA战队粉丝群：676708581  
 
-## 目前建设进度
+## 网站进度
 
-内容|进度|链接
-SQUAD一命制内容|90%|[](https://saga2003.github.io/squad.html)
-其他：尚无计划
+维护部分 | 维护进度 | 缺失部分 | 主要负责者
+---|---|---|---
+BattleField | 0% | 全部 | 虚位以待
+ARMA | 0% | 全部 | 虚位以待
+SQUAD 一命制 | 90% | 部分一命制简报 | =SAGA=EmoB(EmoBSAMA)
+Rainbow 6 | 0% | 全部 | 虚位以待
+Racing | 0% | 全部 | 虚位以待
+
+## 战队LOGO
+![SAGA](image/SAGA_LOGO.png)
 
 
 
