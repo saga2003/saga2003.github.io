@@ -25,6 +25,8 @@ permalink: /squad.html
 2021-12-04|时间与命运/黑色小队|[网址](/squad/onelife/20211204.md)
 2021-11-27|最后清算/王冠|[网址](/squad/onelife/20211127.md)
 2021-11-20|漫漫归乡路/漫长归途|[网址](/squad/onelife/20211120.md)
+2021-11-13|纳尔瓦地区争夺战|[网址](/squad/onelife/20211113.md)
+2021-10-30|GEBURAH计划|[网址](/squad/onelife/20211030.md)
 
 ## 一命制活动所有视频
 ### 更新范围（20220319-20211127）
@@ -72,6 +74,11 @@ permalink: /squad.html
 2021-11-27|最后清算/王冠|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1d34y197Xp/)|第三视角
 2021-11-20|漫漫归乡路/漫长归途|多人|[网址](https://www.bilibili.com/video/BV1tU4y1u7RL/)|多人视角
 2021-11-20|漫漫归乡路/漫长归途【临时】|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1bf4y1M7ME/)|第三视角
+2021-11-13|纳尔瓦地区争夺战|莱特-official|[网址](https://www.bilibili.com/video/BV1pQ4y1U7ud/)|第一视角
+2021-11-13|纳尔瓦地区争夺战|SQ541 Madman|[网址](https://www.bilibili.com/video/BV1og411K7gx/)|第一视角
+2021-11-13|纳尔瓦地区争夺战|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1Nh411b77B/)|第三视角
+2021-10-30|GEBURAH计划|Reimurei & 缇娜白给了|[网址](https://www.bilibili.com/video/BV1Kf4y1u7VG/)|第一视角
+2021-10-30|GEBURAH计划|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1sf4y1u78D/)|第三视角
 
 
 [返回一命制](https://saga2003.github.io/squad.html)
