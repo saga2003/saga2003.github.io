@@ -141,5 +141,5 @@ SAGA战队粉丝群：676708581
 [返回一命制](https://saga2003.github.io/squad.html)
 [返回主页](https://saga2003.github.io/)
 
-
-
+## 战队LOGO
+![SAGA](image/SAGA_LOGO.png)
