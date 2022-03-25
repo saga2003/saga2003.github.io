@@ -27,6 +27,9 @@ permalink: /squad.html
 2021-11-20|漫漫归乡路/漫长归途|[网址](/squad/onelife/20211120.md)
 2021-11-13|纳尔瓦地区争夺战|[网址](/squad/onelife/20211113.md)
 2021-10-30|GEBURAH计划|[网址](/squad/onelife/20211030.md)
+2021-10-16|金色的土地黑色的血|[网址](/squad/onelife/20211016.md)
+2021-10-09|流血的洋甘菊|[网址](/squad/onelife/20211009.md)
+2021-10-02|地狱之门噩兆第二场|[网址](/squad/onelife/20211002.md)
 
 ## 一命制活动所有视频
 ### 更新范围（20220319-20211127）
@@ -79,6 +82,12 @@ permalink: /squad.html
 2021-11-13|纳尔瓦地区争夺战|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1Nh411b77B/)|第三视角
 2021-10-30|GEBURAH计划|Reimurei & 缇娜白给了|[网址](https://www.bilibili.com/video/BV1Kf4y1u7VG/)|第一视角
 2021-10-30|GEBURAH计划|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1sf4y1u78D/)|第三视角
+2021-10-16|金色的土地黑色的血|多人视角|[网址](https://www.bilibili.com/video/BV1pQ4y1z7Pz/)|第一视角
+2021-10-09|流血的洋甘菊| 多人视角 |[网址](https://www.bilibili.com/video/BV1sL4y167nz/)|第一视角
+2021-10-09|流血的洋甘菊| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV173411C78n/)|第三视角
+2021-10-02|地狱之门噩兆第二场| 多人视角 |[网址](https://www.bilibili.com/video/BV1QT4y1Z7cL/)|第一视角 之二
+2021-10-02|地狱之门噩兆第二场| 多人视角 |[网址](https://www.bilibili.com/video/BV1QQ4y1Q7bP/)|第一视角 之一
+2021-10-02|地狱之门噩兆第二场| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV1Rf4y1E7GB/)|第三视角
 
 
 [返回一命制](https://saga2003.github.io/squad.html)
