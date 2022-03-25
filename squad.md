@@ -41,10 +41,10 @@ permalink: /squad.html
 2021-06-26|火中取栗|[网址](/squad/onelife/20210626.md)
 2021-06-12|沉浸式一命制活动0612|[网址](/squad/onelife/20210612.md)
 2021-06-12|打靶活动【娱乐活动】|[网址](/squad/onelife/20210612.md)
+2021-05-01|五一假期一命制活动|[网址](/squad/onelife/20210501.md)
 
 
 ## 一命制活动所有视频
-### 更新范围（20220319-20210717）
 
 活动日期|活动名称|视角提供者|链接|备注
 ---|---|---|---|---
@@ -115,6 +115,7 @@ permalink: /squad.html
 2021-06-12|沉浸式一命制活动0612| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV18V41147wq/)|第三视角
 2021-06-12|打靶活动【娱乐活动】| =SAGA=sshengx |[网址](https://www.bilibili.com/video/BV1ag411G7BS/)|第三视角
 2021-06-12|打靶活动【娱乐活动】| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV18v411p7bA/)|第一视角
+2021-05-01|五一假期一命制活动| SQ318 O DUCK |[网址](https://www.bilibili.com/video/BV18V41147wq/)|第一视角
 
 
 [返回一命制](https://saga2003.github.io/squad.html)
