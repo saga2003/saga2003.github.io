@@ -1,10 +1,10 @@
 ---
-permalink: /index.html
+permalink: /rainbow6.html
 ---
 [主页](https://saga2003.github.io/)   -  [Battlefield](https://saga2003.github.io/battlefield.html)   -   [ARMA](https://saga2003.github.io/arma.html)   -   [SQUAD](https://saga2003.github.io/squad.html)   -   [Rainbow6](https://saga2003.github.io/rainbow6.html)   -   [Racing](https://saga2003.github.io/racing.html)   -   [Others](https://saga2003.github.io/others.html)
 # 首页
 
-首页正在建设中
+Rainbow6分区正在建设中
 
 =SAGA=战地BF公众玩家群：217470002  
 =SAGA=战队战地新兵营：390611927  
@@ -25,7 +25,7 @@ SAGA战队骑马与砍杀2交流群：648931147
 =SAGA=飞行模拟讨论群：127374706  
 =SAGA=战队战争雷霆交流群：832226814  
 
-SAGA战队粉丝群：676708581  
+SAGA战队粉丝群：676708581 
 
 ## 目前建设进度
 

@@ -1,7 +1,7 @@
 ---
 permalink: /squad.html
 ---
-[主页](https://saga2003.github.io/) [Battlefield](https://saga2003.github.io/404.html) [ARMA](https://saga2003.github.io/404.html) [SQUAD](https://saga2003.github.io/squad.html) [Rainbow6](https://saga2003.github.io/404.html) [Racing](https://saga2003.github.io/404.html) [Others](https://saga2003.github.io/404.html)
+[主页](https://saga2003.github.io/)   -  [Battlefield](https://saga2003.github.io/battlefield.html)   -   [ARMA](https://saga2003.github.io/arma.html)   -   [SQUAD](https://saga2003.github.io/squad.html)   -   [Rainbow6](https://saga2003.github.io/rainbow6.html)   -   [Racing](https://saga2003.github.io/racing.html)   -   [Others](https://saga2003.github.io/others.html)
 # SQUAD一命制活动展示
 ## 一命制活动一览
 
@@ -117,6 +117,26 @@ permalink: /squad.html
 2021-06-12|打靶活动【娱乐活动】| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV18v411p7bA/)|第一视角
 2021-05-01|五一假期一命制活动| SQ318 O DUCK |[网址](https://www.bilibili.com/video/BV18V41147wq/)|第一视角
 
+=SAGA=战地BF公众玩家群：217470002  
+=SAGA=战队战地新兵营：390611927  
+
+SAGA战队正版ARMA3群：178180325  
+SAGA战队ARMA3训练任务群：254658681  
+
+SAGA战队SQ公共群：680455119  
+SAGA战队SQ新兵营：662092528  
+SAGA一命制活动群（硬核）：524717824  
+
+=SAGA=彩虹六号公众群：113775237  
+SAGA电竞车队交流群：665136555  
+
+SAGA战队硬核FPS交流群：913632842  
+SAGA战队骑马与砍杀2交流群：648931147  
+
+=SAGA=飞行模拟讨论群：127374706  
+=SAGA=战队战争雷霆交流群：832226814  
+
+SAGA战队粉丝群：676708581
 
 [返回一命制](https://saga2003.github.io/squad.html)
 [返回主页](https://saga2003.github.io/)
