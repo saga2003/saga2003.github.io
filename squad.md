@@ -7,26 +7,27 @@ permalink: /squad.html
 
 活动日期|活动名称|详情
 ---|---|---
-2022-03-26|虎口脱险|[网址](https://saga2003.github.io/onelife/20220326.html)
-2022-03-19|死亡公路|[网址](https://saga2003.github.io/onelife/20220319.html)
-2022-03-12|沙皇 vs 王国 0312|[网址](https://saga2003.github.io/onelife/20220312.html)
-2022-03-05|星际远征|[网址](https://saga2003.github.io/onelife/20220305.html)
-2022-02-26|星战 沙人 vs 共和国|[网址](https://saga2003.github.io/onelife/20220226.html)
-2022-02-19|星战|[网址](https://saga2003.github.io/onelife/20220226.html)
-2022-02-15|SQ狙击手大赛|[网址](https://saga2003.github.io/onelife/20220215.html)
-2022-02-12|战车道|[网址](https://saga2003.github.io/onelife/20220212.html)
-2022-01-22|亡者之夜|[网址](https://saga2003.github.io/onelife/20220122.html)
-2022-01-15|无人生还|[网址](https://saga2003.github.io/onelife/20220115.html)
-2022-01-08|金咕咕第二周|[网址](https://saga2003.github.io/onelife/20220108.html)
-2022-01-01|太阳行动|[网址](https://saga2003.github.io/onelife/20220101.html)
-2021-12-25|MEE测试|[网址](https://saga2003.github.io/onelife/20211225.html)
-2021-12-18|油鸡饭行动/雷霆行动|[网址](https://saga2003.github.io/onelife/20211218.html)
+2022-03-26|虎口脱险|[网址](/squad/onelife/20220326.html)
+2022-03-19|死亡公路|[网址](/squad/onelife/20220319.html)
+2022-03-12|沙皇 vs 王国 0312|[网址](/squad/onelife/20220312.html)
+2022-03-05|星际远征|[网址](/squad/onelife/20220305.html)
+2022-02-26|星战 沙人 vs 共和国|[网址](/squad/onelife/20220226.html)
+2022-02-19|星战|[网址](/squad/onelife/20220226.html)
+2022-02-15|SQ狙击手大赛|[网址](/squad/onelife/20220215.html)
+2022-02-12|战车道|[网址](/squad/onelife/20220212.html)
+2022-01-22|亡者之夜|[网址](/squad/onelife/20220122.html)
+2022-01-15|无人生还|[网址](/squad/onelife/20220115.html)
+2022-01-08|金咕咕第二周|[网址](/squad/onelife/20220108.html)
+2022-01-01|太阳行动|[网址](/squad/onelife/20220101.html)
+2021-12-25|MEE测试|[网址](/squad/onelife/20211225.html)
+2021-12-18|油鸡饭行动/雷霆行动|[网址](/squad/onelife/20211218.html)
 2021-12-11|不准说英语|[网址](/squad/onelife/20211211.md)
 2021-12-04|时间与命运/黑色小队|[网址](/squad/onelife/20211204.md)
+2021-11-27|最后清算/王冠|[网址](/squad/onelife/20211127.md)
 
 
 ## 一命制活动所有视频
-### 更新范围（20220319-20211204）
+### 更新范围（20220319-20211127）
 
 活动日期|活动名称|视角提供者|链接|备注
 ---|---|---|---|---
@@ -67,6 +68,8 @@ permalink: /squad.html
 2021-12-11|不准说英语|莱特-official|[网址](https://www.bilibili.com/video/BV19Z4y197XS/)|第一视角
 2021-12-04|时间与命运/黑色小队|多人|[网址](https://www.bilibili.com/video/BV1M44y1a7ek/)|多人视角
 2021-12-04|时间与命运/黑色小队|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1zQ4y1i73H/)|第三视角
+2021-11-27|最后清算/王冠|多人|[网址](https://www.bilibili.com/video/BV1nM4y1P7xS/)|多人视角
+2021-11-27|最后清算/王冠|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1d34y197Xp/)|第三视角
 
 
 [返回一命制](https://saga2003.github.io/squad.html)
