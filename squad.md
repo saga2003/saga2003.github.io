@@ -24,7 +24,7 @@ permalink: /squad.html
 2021-12-11|不准说英语|[网址](/squad/onelife/20211211.md)
 2021-12-04|时间与命运/黑色小队|[网址](/squad/onelife/20211204.md)
 2021-11-27|最后清算/王冠|[网址](/squad/onelife/20211127.md)
-
+2021-11-20|漫漫归乡路/漫长归途|[网址](/squad/onelife/20211120.md)
 
 ## 一命制活动所有视频
 ### 更新范围（20220319-20211127）
@@ -70,6 +70,8 @@ permalink: /squad.html
 2021-12-04|时间与命运/黑色小队|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1zQ4y1i73H/)|第三视角
 2021-11-27|最后清算/王冠|多人|[网址](https://www.bilibili.com/video/BV1nM4y1P7xS/)|多人视角
 2021-11-27|最后清算/王冠|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1d34y197Xp/)|第三视角
+2021-11-20|漫漫归乡路/漫长归途|多人|[网址](https://www.bilibili.com/video/BV1tU4y1u7RL/)|多人视角
+2021-11-20|漫漫归乡路/漫长归途【临时】|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1bf4y1M7ME/)|第三视角
 
 
 [返回一命制](https://saga2003.github.io/squad.html)
