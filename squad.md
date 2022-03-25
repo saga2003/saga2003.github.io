@@ -38,6 +38,9 @@ permalink: /squad.html
 2021-08-07|第三次世界大战第二季|[网址](/squad/onelife/20210807.md)
 2021-07-25|第三次世界大战|[网址](/squad/onelife/20210725.md)
 2021-07-17|狡兔三窟|[网址](/squad/onelife/20210717.md)
+2021-06-26|火中取栗|[网址](/squad/onelife/20210626.md)
+2021-06-12|沉浸式一命制活动0612|[网址](/squad/onelife/20210612.md)
+2021-06-12|打靶活动【娱乐活动】|[网址](/squad/onelife/20210612.md)
 
 
 ## 一命制活动所有视频
@@ -107,6 +110,11 @@ permalink: /squad.html
 2021-08-07|第三次世界大战第二季| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV1Kq4y1Q7en/)|第三视角
 2021-07-25|第三次世界大战| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV1aX4y1c7sD/)|第三视角
 2021-07-17|狡兔三窟| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV1zg411T7Ay/)|第三视角
+2021-06-26|火中取栗| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV1uq4y1s7yR/)|第三视角
+2021-06-26|火中取栗| =SAGA=dasuai |[网址](https://www.bilibili.com/video/BV1AX4y1P793/)|布 莱 德 利 树
+2021-06-12|沉浸式一命制活动0612| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV18V41147wq/)|第三视角
+2021-06-12|打靶活动【娱乐活动】| =SAGA=sshengx |[网址](https://www.bilibili.com/video/BV1ag411G7BS/)|第三视角
+2021-06-12|打靶活动【娱乐活动】| =SAGA=EmoB |[网址](https://www.bilibili.com/video/BV18v411p7bA/)|第一视角
 
 
 [返回一命制](https://saga2003.github.io/squad.html)
