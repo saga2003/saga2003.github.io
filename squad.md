@@ -7,6 +7,7 @@ permalink: /squad.html
 
 活动日期|活动名称|详情
 ---|---|---
+2022-03-26|格罗兹尼车臣战争|[网址](/squad/onelife/20220326.md)
 2022-03-26|虎口脱险|[网址](/squad/onelife/20220326.md)
 2022-03-19|死亡公路|[网址](/squad/onelife/20220319.md)
 2022-03-12|沙皇 vs 王国 0312|[网址](/squad/onelife/20220312.md)
@@ -48,6 +49,8 @@ permalink: /squad.html
 
 活动日期|活动名称|视角提供者|链接|备注
 ---|---|---|---|---
+2022-03-19|虎口脱险|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1XU4y1d7BJ/)|第三视角
+2022-03-19|虎口脱险|MDK Sovieskii|[网址](https://www.bilibili.com/video/BV1MS4y1S7nM/)|第一视角
 2022-03-19|死亡公路|Reimurei|[网址](https://www.bilibili.com/video/BV1mT4y1v7C9)|第一视角 第二阶段
 2022-03-19|死亡公路|莱特-offical|[网址](https://www.bilibili.com/video/BV1aL4y1M7Zv)|第一视角 第二阶段
 2022-03-19|死亡公路|莱特-offical|[网址](https://www.bilibili.com/video/BV1bL411w7Yv)|第一视角 第一阶段
