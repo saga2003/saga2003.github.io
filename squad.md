@@ -7,7 +7,8 @@ permalink: /squad.html
 
 活动日期|活动名称|详情
 ---|---|---
-2022-04-02|恐懼之城（未开始）|[网址](/squad/onelife/20220402.md)
+2022-04-09|恐懼之城 行动阶段二|[网址](/squad/onelife/20220409.md)
+2022-04-02|恐懼之城 行动阶段一|[网址](/squad/onelife/20220402.md)
 2022-03-26|虎口脱险|[网址](/squad/onelife/20220326.md)
 2022-03-19|死亡公路|[网址](/squad/onelife/20220319.md)
 2022-03-12|沙皇 vs 王国 0312|[网址](/squad/onelife/20220312.md)
@@ -49,6 +50,19 @@ permalink: /squad.html
 
 活动日期|活动名称|视角提供者|链接|备注
 ---|---|---|---|---
+2022-04-09|恐懼之城 行动阶段二|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1C94y1Z7jE/)|第三视角
+2022-04-09|恐懼之城 行动阶段二|MDKSovieskii|[网址](https://www.bilibili.com/video/BV1y5411U7Dq/)|镜头 - 痛击我的队友
+2022-04-09|恐懼之城 行动阶段二|MDKSovieskii|[网址](https://www.bilibili.com/video/BV1PS4y127Tm/)|第一视角
+2022-04-09|恐懼之城 行动阶段二|莱特-official|[网址](https://www.bilibili.com/video/BV1fA4y1X793/)|第一视角
+2022-04-02|恐懼之城 行动阶段一|KOMAROV416|[网址](https://www.bilibili.com/video/BV1mr4y1W7Y7/)|活动预告1
+2022-04-02|恐懼之城 行动阶段一|舜天阈路|[网址](https://www.bilibili.com/video/BV165411S7x6/)|活动预告2
+2022-04-02|恐懼之城 行动阶段一|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1Bu411i7Gk/)|第三视角
+2022-04-02|恐懼之城 行动阶段一|TommyZhu|[网址](https://www.bilibili.com/video/BV1iY411J7hx/)|第一视角
+2022-04-02|恐懼之城 行动阶段一|MDK Sovieskii|[网址](https://www.bilibili.com/video/BV1fT4y1e71Z/)|第一视角
+2022-04-02|恐懼之城 行动阶段一|Thanos_113|[网址](https://www.bilibili.com/video/BV1Wq4y1e7LY/)|第一视角
+2022-04-02|恐懼之城 行动阶段一|多普勒|[网址](https://www.bilibili.com/video/BV1i34y1s7CH/)|第一视角
+2022-04-02|恐懼之城 行动阶段一|Reimurei|[网址](https://www.bilibili.com/video/BV1mP4y1K7Q5/)|第一视角
+2022-04-02|恐懼之城 行动阶段一|莱特-official|[网址](https://www.bilibili.com/video/BV1Lr4y1p7W9/)|第一视角
 2022-03-26|虎口脱险|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1XU4y1d7BJ/)|第三视角
 2022-03-26|虎口脱险|MDK Sovieskii|[网址](https://www.bilibili.com/video/BV1MS4y1S7nM/)|第一视角
 2022-03-26|虎口脱险|莱特-offical|[网址](https://www.bilibili.com/video/BV1Kq4y1e7PX/)|第一视角
