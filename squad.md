@@ -7,6 +7,7 @@ permalink: /squad.html
 
 活动日期|活动名称|详情
 ---|---|---
+2022-04-16|人道主义|[网址](/squad/onelife/20220416.md)
 2022-04-09|恐懼之城 行动阶段二|[网址](/squad/onelife/20220409.md)
 2022-04-02|恐懼之城 行动阶段一|[网址](/squad/onelife/20220402.md)
 2022-03-26|虎口脱险|[网址](/squad/onelife/20220326.md)
@@ -50,6 +51,11 @@ permalink: /squad.html
 
 活动日期|活动名称|视角提供者|链接|备注
 ---|---|---|---|---
+2022-04-16|人道主义|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1oi4y1U7Sr/)|第三视角【先行版720P】
+2022-04-16|人道主义|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1ka411v7wp/)|第三视角【4K】
+2022-04-16|人道主义|莱特-official|[网址](https://www.bilibili.com/video/BV1EL4y1L7oR/)|第一视角
+2022-04-16|人道主义|TommyZhu|[网址](https://www.bilibili.com/video/BV18a411v7BP/)|第一视角
+2022-04-16|人道主义|MDKSovieskii|[网址](https://www.bilibili.com/video/BV1wA4y1X7m5/)|第一视角
 2022-04-09|恐懼之城 行动阶段二|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1C94y1Z7jE/)|第三视角
 2022-04-09|恐懼之城 行动阶段二|MDKSovieskii|[网址](https://www.bilibili.com/video/BV1y5411U7Dq/)|镜头 - 痛击我的队友
 2022-04-09|恐懼之城 行动阶段二|MDKSovieskii|[网址](https://www.bilibili.com/video/BV1PS4y127Tm/)|第一视角
