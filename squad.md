@@ -56,6 +56,7 @@ permalink: /squad.html
 2022-04-23|天启日行动 / 同盟行动|莱特-official|[网址](https://www.bilibili.com/video/BV1HL4y1V7Yf/)|第一视角之一
 2022-04-23|天启日行动 / 同盟行动|莱特-official|[网址](https://www.bilibili.com/video/BV1xY4y1a7Sy/)|第一视角之二
 2022-04-23|天启日行动 / 同盟行动|莱特-official|[网址](https://www.bilibili.com/video/BV1BT4y1a7xV/)|第一视角之三
+2022-04-23|天启日行动 / 同盟行动|MDKSovieskii|[网址](https://www.bilibili.com/video/BV1pS4y1c7hi)|第一视角
 2022-04-16|人道主义|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1oi4y1U7Sr/)|第三视角【先行版720P】
 2022-04-16|人道主义|=SAGA=EmoB|[网址](https://www.bilibili.com/video/BV1ka411v7wp/)|第三视角【4K】
 2022-04-16|人道主义|莱特-official|[网址](https://www.bilibili.com/video/BV1EL4y1L7oR/)|第一视角
